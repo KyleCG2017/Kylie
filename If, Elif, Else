@@ -1,0 +1,83 @@
+#22/10/2021
+#Kylies first Python Code using IF, Elif, ELSE.
+
+
+# name = "Kyjaemnb"
+
+# if name == "Kylie":
+#     print ("Welcome Kylie")
+#     #print ("Welcome", name)
+
+# elif name == "Kyle":
+#     print ("Welcome Kyle")
+
+# elif name == "Kylah":
+#     print ("Welcome Kylah")
+
+# elif name == "Kyjae":
+#     print ("Welcome Kyjae")
+
+# else:
+#     print ("User Not Found")
+
+
+###############################################################################
+###############################################################################
+
+
+# input mark you got 73%, it tells you 
+
+
+score = 10
+
+if score <= 50:
+    print ("Test Failed")
+
+elif score <= 60:
+    print ("Low Pass D Grade")
+
+elif score <= 70:
+    print ("Pass C Grade")
+
+elif score <= 80:
+    print ("Average Pass B Grade")
+
+elif score <= 90:
+    print ("High Pass A Grade")
+
+elif score <= 100:
+    print ("Perfect Score Excellent")
+
+else:
+    print ("Contact Admin")
+
+
+###Practise with Kyle 
+# number = 7
+
+# if number == 1:
+#     print("Our number is", number)
+
+# elif number == 2:
+#     print("Our number is", number)
+
+# elif number == 3:
+#     print("Our number is", number)
+
+# elif number == 4:
+#     print("Our number is", number)
+
+# elif number == 5:
+#     print("Our number is", number)
+
+# else:
+#     print("Number not found")
+
+
+
+
+
+
+
+
+
